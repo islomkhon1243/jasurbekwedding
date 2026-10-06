@@ -36,7 +36,7 @@ const translations = {
     dateKicker:'Санани белгилаб қўйинг', dateTitle:'Ноябрь 2026', timeLabel:'Бошланиши', monthYear:'НОЯБРЬ 2026',
     weekdays:['ДШ','СШ','ЧШ','ПШ','ЖМ','ШН','ЯК'], countKicker:'Учрашувимизгача', days:'кун', hours:'соат', minutes:'дақиқа', seconds:'сония',
     placeKicker:'Ўтказилиш жойи', venue:'«Хасан ата» салтанат саройи', placeNote:'Манзилга бориш учун ўзингизга қулай харитани очинг.',
-    finalKicker:'Меҳр билан', finalText:'Бахтияр угли Улугбек Юнусовлар оиласи'
+    finalKicker:'Меҳр билан', finalText:'Юнусовлар оиласи Бахтияр угли Улугбек'
   }
 };
 
